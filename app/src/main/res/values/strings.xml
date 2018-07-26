@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sms_Send</string>
+    <string name="messageSendSuccess">Message Sent successfully</string>
+    <string name="PermissionDenied">Permission denied to read your External storage</string>
+    <string name="SendSMS">Send SMS</string>
+    <string name="PhoneNumber">+5511999996666</string>
+    <string name="SMSMessage">You must delete testSms</string>
+    <string name="line_position">line position</string>
+    <!--<string name="app_name">Sms_Send</string>-->
+    <!--<string name="app_name">Sms_Send</string>-->
+    <!--<string name="app_name">Sms_Send</string>-->
+</resources>
