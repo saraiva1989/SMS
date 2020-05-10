@@ -1,12 +1,12 @@
 # SMS
-concept test of an application that sends SMS and read the SMS sent and received
+teste de conceito de um aplicativo que envia SMS e lê o SMS enviado e recebido
 
 # how to use
 
-As this project is based on the test, I put the phone number information (which will be sent to SMS) and the fixed message text in the code, to change are the following strings from the file Strings.xml: 
+Como este projeto é baseado no teste, coloquei as informações do número de telefone (que serão enviadas para o SMS) e o texto da mensagem fixa no código, para alterar as seguintes strings do arquivo Strings.xml:
 
-PhoneNumber
+Número de telefone
 
 SMSMessage
 
-Remember that to carry out the test has to be in a physical device and must have a SIM SIM (from the telephone operator).
+Lembre-se de que para realizar o teste deve estar em um dispositivo físico e deve ter um SIM SIM (da operadora de telefonia).
